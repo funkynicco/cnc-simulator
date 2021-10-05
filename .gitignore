@@ -1,0 +1,5 @@
+_RELEASE/
+bin/
+obj/
+*.suo
+*.user
